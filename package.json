@@ -1,0 +1,13 @@
+{
+  "name": "shell-waitpid",
+  "version": "2019.5.7",
+  "description": "waitpid - wait for process(es) termination",
+  "keywords": [
+    "waitpid"
+  ],
+  "homepage": "https://github.com/looking-for-a-job/shell-waitpid",
+  "license": "Unlicense",
+  "bin": {
+    "waitpid": "./scripts/waitpid"
+  }
+}
